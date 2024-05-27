@@ -18,7 +18,7 @@ The project is organized into the following files:
 - `WeatherData.h` and `WeatherData.cpp`: Define and implement the `WeatherData` class, which manages the loading and storing of weather records.
 - `Statistics.h` and `Statistics.cpp`: Define and implement the `Statistics` class, which calculates and displays various weather statistics.
 
-## How to Run
+## How to Run 
 
 ### Prerequisites
 
@@ -29,5 +29,5 @@ The project is organized into the following files:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/weather-data-analysis.git
+   git clone https://github.com/Germain-Adediha/Wheather-Data-Analysis-Project.git
    cd weather-data-analysis
